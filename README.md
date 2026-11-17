@@ -52,9 +52,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: HARSHANA M V
+### Name: SATHISH KUMAR M 
 
-### Register Number:212224240053
+### Register Number:212224230256
 ```
 import torch
 import torch.nn as nn
